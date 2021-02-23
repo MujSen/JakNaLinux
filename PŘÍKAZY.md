@@ -12,7 +12,7 @@
   * cd slouží pro přepínání pracovního adresáře
     * cd / (přepne do kořenového adresáře)
     * cd ovoce
-    * cd ovoce/rušky
+    * cd ovoce/hrušky
 * pwd
   * pwd vypíše cestu ve které se nacházíme
 * rmdir
