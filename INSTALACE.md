@@ -10,6 +10,7 @@
 * Ubuntu - Má hodně hezkých funkcí
 * Xfce - Rychlý, zabírá málo místa, uživatelsky přívětivý
 * Kali Linux - Linux s předinstalovanými věcmi pro Ethnické hackování a testování Penetrace (Můj nejoblíbenější)
+* [...](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
 
 ### Instalace linuxu
 Obecně instalace linuxu je velice jednoduchá, skoro každá linux distribuce má svoje stránky, kde najdete návod na nainstalování
