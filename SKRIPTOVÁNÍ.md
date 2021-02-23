@@ -1,7 +1,7 @@
 ## Základ
 1. musíme vždy označit na začátku soubor jako spustitelný pomocí chmod +x
 2. Každý soubor musí mít označení, že má být spuštěn přes bash
-* #!/bin/bash 
+* `#!/bin/bash` 
 * 
 ## Proměnné
 * Ukládání do proměnných
@@ -43,6 +43,7 @@
       //Když bude před proměnnou mezera tak se nic nestane
     ```
 ## If (jestli)
+  *
     ```bash	
       if [ výraz ];
       then  
