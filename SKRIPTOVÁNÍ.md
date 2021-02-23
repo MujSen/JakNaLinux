@@ -57,7 +57,7 @@
       příkazy  
       fi  
     ``` 
- * Když chzeme více výrazů než dva
+ * Když chceme více výrazů než dva
     ```bash	
       if [ výraz && výraz || výraz ]; 
       then  
