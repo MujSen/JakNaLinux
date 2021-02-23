@@ -1,0 +1,5 @@
+![Struktura souborů](https://lcom.static.linuxfound.org/sites/lcom/files/standard-unix-filesystem-hierarchy.png)
+Důležité cesty
+  /
+  etc/passwd
+  bin/bash
