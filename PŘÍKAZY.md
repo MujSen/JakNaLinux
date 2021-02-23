@@ -1,5 +1,5 @@
 # Základní příkazy
-* Více rozepsaný seznam příkazů a jejch užití zde: https://cs.wikibooks.org/wiki/Linux:P%C5%99ehled_z%C3%A1kladn%C3%ADch_p%C5%99%C3%ADkaz%C5%AF
+* [Více rozepsaný seznam příkazů a jejch užití zde:] (https://cs.wikibooks.org/wiki/Linux:P%C5%99ehled_z%C3%A1kladn%C3%ADch_p%C5%99%C3%ADkaz%C5%AF)
 ## Práce se soubory a adresářy
 * mkdir 
   * mkdir slouží na vytváření adresářů: 
@@ -73,7 +73,7 @@
     * wc soubor
     * wc soubor1 soubor2 soubor3
     
-## Kompletní seznam příkazů https://en.wikipedia.org/wiki/List_of_Unix_commands ANGLICKY
-## Kompletní seznam příkazů https://cs.qaz.wiki/wiki/List_of_Unix_commands ČESKY
+## [Kompletní seznam příkazů (https://en.wikipedia.org/wiki/List_of_Unix_commands) ANGLICKY]
+## [Kompletní seznam příkazů (https://cs.qaz.wiki/wiki/List_of_Unix_commands) ČESKY]
 * Při práci s textem hledejte příkazy v kategorii Text processing	(head,tail,wc,...)
 * Při práci v systému hledejte příkazy v kategorii Filesystem (cd,mkdir,...)
