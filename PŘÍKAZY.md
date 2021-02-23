@@ -3,7 +3,7 @@
 ## Práce se soubory a adresářy
 * mkdir 
   * mkdir slouží na vytváření adresářů: 
-    * mkdir ovoce
+    * `mkdir ovoce`
    * dá se vytvářet i více adresářů najednou: 
     * mkdir ovoce zelenina
   * s přepínačem -p se dají dělat i podadresáře:
