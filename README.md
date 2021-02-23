@@ -13,4 +13,7 @@ Populární distribuce linuxu:
 
 Instalace linuxu
   Obecně instalace linuxu je velice jednoduchá, skoro každá linux distribuce má svoje stránky, kde najdete návod na nainstalování
-  Instalace ve Virtual boxu
+    Instalace ve VirtualBox
+    
+    Instalace na přenosné médium
+    1. Stáhněte si Etcher
