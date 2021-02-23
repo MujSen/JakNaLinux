@@ -2,4 +2,4 @@
 ## [Instalace](INSTALACE.md)
 ## [Struktura souborů](STRUKTURA_SOUBORŮ.md)
 ## [Příkazy](PŘÍKAZY.md)
-## [SKRIPTOVÁNÍ](SKRIPTOVÁNÍ.md)
+## [Skriptování](SKRIPTOVÁNÍ.md)
